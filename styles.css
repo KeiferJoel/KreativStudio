@@ -433,3 +433,11 @@
                 gap: 20px;
             }
         }
+
+
+
+        logo-img{
+            width: 20px;
+            height: auto;
+            margin-right: 20px;
+        }
